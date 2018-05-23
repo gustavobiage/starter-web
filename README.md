@@ -8,8 +8,15 @@ showing how to use Git and Github together.
 this example is to show different parts 
 of the Git repository and various commands using a web project.
 
-## Purpose
+## Purposed
+
+As stated the main purpose is to 
+provide simple examples for Git trainning demos.
 
 ## Deployment
+
+this is a simple web project, deployment 
+can be on any web server on even local 
+file system.
 
 ## How To Contribute
