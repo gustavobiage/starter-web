@@ -21,6 +21,9 @@ file system.
 
 ## How To Contribute
 
+Please fork repository and then issue Pull request for 
+review.
+
 ###Copyright
 
 2018 Git.Trainning
